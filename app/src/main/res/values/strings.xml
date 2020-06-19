@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ImageViewEasySample</string>
+    <string name="button">Button</string>
+    <string name="description">Bag</string>
 </resources>
